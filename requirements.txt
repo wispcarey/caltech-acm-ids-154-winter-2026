@@ -1,0 +1,11 @@
+numpy>=2.1.0
+matplotlib
+scipy
+ipywidgets
+scikit-image
+pillow
+jupyter
+torch
+torchvision
+simple_lama_inpainting
+git+https://github.com/huggingface/transformers.git
